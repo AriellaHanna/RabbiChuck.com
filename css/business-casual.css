@@ -4,6 +4,69 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 
+/* Added by ard71
+	START
+*/
+#returnmessage{
+	text-align:center;
+	color:black;
+	font-size:14px;
+}
+
+.img-big{
+	max-width: 75%;
+	max-height:75%;
+}
+.img-med{
+	max-width: 50%;
+	max-height:50%;
+}
+
+.img-small{
+	max-width: 25%;
+	max-height: 25%;
+}
+
+.img-center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+button{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 14px;
+  	font-weight: normal;
+ 	line-height: 1.42857143;
+  	text-align: center;
+ 	white-space: nowrap;
+  	vertical-align: middle;
+  	-ms-touch-action: manipulation;
+    touch-action: manipulation;
+  	cursor: pointer;
+  	-webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+ 	background-image: none;
+  	border: 1px solid transparent;
+  	border-radius: 4px;
+  	color: #333;
+  	background-color: #fff;
+  	border-color: #ccc;
+}
+iframe{
+	border-width: 0;
+	width: 800px;
+	height: 600px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+/* END */
+
 body {
     font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
     background: url('../img/bg.jpg') no-repeat center center fixed;
