@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <?php
 	include("include/functions.php");
 	include("include/header.php");
@@ -27,4 +28,6 @@
 <?php
 	include("include/footer.php");
 ?>
+</body>
+</html>
 

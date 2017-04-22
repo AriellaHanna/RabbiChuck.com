@@ -11,6 +11,7 @@
 	<?php
 		createNavBar();
 	?>
+
     <div class="container">
         <div class="row">
             <div class="box">
@@ -21,6 +22,7 @@
                     </h2>
                     <hr>
                     <p>Have any questions or comments for Rabbi Chuck?  Leave them here!</p>
+
                     <form role="form" action="include/form-handler-nodb.php" method="post">
                         <div class="row">
                         	<p id="returnmessage"></p>
@@ -51,7 +53,6 @@
         </div>
 
     </div>
-
 <?php
 	include("include/footer.php");	
 ?>

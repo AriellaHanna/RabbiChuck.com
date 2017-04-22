@@ -26,6 +26,7 @@
     text-align: center;
 	}
 	</style>
+
 </head>
 
 <body>
@@ -34,6 +35,7 @@
     <?php
 		createNavBar();
 	?>
+
 <div class="container">
 
         <div class="row">
